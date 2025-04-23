@@ -1,0 +1,9 @@
+{
+	"name": "SalesWarehouseETL",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1554a25b-5f96-4c42-b4e6-dd5bf3bde0bc",
+		"tenantId": "2e7fa7a7-30f5-4522-964c-0f3c3603b9df"
+	}
+}
